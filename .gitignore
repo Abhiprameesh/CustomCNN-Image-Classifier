@@ -1,0 +1,21 @@
+# Virtual Environments
+venv/
+.env/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS config
+.vscode/
+.idea/
+.DS_Store
+
+# Datasets and Checkpoints
+dataset/
+*.h5
+*.hdf5
+*.zip
+
+# Streamlit
+.streamlit/
