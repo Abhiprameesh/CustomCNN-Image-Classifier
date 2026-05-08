@@ -1,0 +1,12 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+        dust       0.91      0.93      0.92       150
+         fog       0.96      0.88      0.92       150
+      normal       0.91      0.96      0.94       150
+       smoke       0.89      0.89      0.89       150
+
+    accuracy                           0.92       600
+   macro avg       0.92      0.92      0.92       600
+weighted avg       0.92      0.92      0.92       600
